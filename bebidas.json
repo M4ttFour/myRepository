@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "cocacola",
+        "image": "",
+        "price": 2.99,
+        "tamaño": ""
+    },
+    {
+        "id": 2,
+        "name": "sprite",
+        "image": "",
+        "price": 2.99
+    },
+    {
+        "id": 3,
+        "name": "fantanaranja",
+        "image": "",
+        "price": 2.99
+    },
+    {
+        "id": 4,
+        "name": "aquarius",
+        "image": "",
+        "price": 2.99
+    },
+    {
+        "id": 5,
+        "name": "agua",
+        "image": "",
+        "price": 1.99
+    },
+    {
+        "id": 6,
+        "name": "fantalimon",
+        "image": "",
+        "price": 2.99
+    }
+]

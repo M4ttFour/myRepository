@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Patatas",
+        "desc": "Description.",
+        "image": "",
+        "tamaño": "Mediano",
+        "precio": 2.99,
+        "hazlogrande":
+        [{
+        "grande": "imagen",
+        "precio": 3.99
+        }]
+    },
+    {
+        "name": "Nuggets",
+        "desc": "Description.",
+        "image": "",
+        "tamaño": "Mediano",
+        "precio": 6.99
+    },
+    {
+        "name": "Ensalada",
+        "desc": "Description.",
+        "image": "",
+        "tamaño": "Mediano",
+        "precio": 3.99,
+        "hazlogrande":
+        [{
+        "grande": "imagen",
+        "precio": 7.19
+        }]
+    }
+]
