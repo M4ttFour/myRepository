@@ -80,9 +80,9 @@
       "desc": "Description.",
       "price": 3.23,
       "veg": false
-    },
-    {
-    "carousel":
+    }
+  ],
+  "carousel":
     [
       {
         "id":1,
@@ -97,6 +97,5 @@
         "img":"https://i.imgur.com/7qDuWCZ.png"
       }
     ]
-    }
-  ]
 }
+  
