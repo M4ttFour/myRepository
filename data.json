@@ -82,8 +82,7 @@
       "veg": false
     }
   ],
-  "carousel":
-    [
+  "carousel":[
       {
         "id":1,
         "img":"https://i.postimg.cc/Dz64FtkH/carrousel1.png"
@@ -96,6 +95,38 @@
         "id":3,
         "img":"https://i.postimg.cc/cHJgJXdH/carrousel3.png"
       }
-    ]
+  ],
+  "cards":[
+    {
+      "titulo": "Hamburguesa Inglesa",
+      "imagen": "https://i.postimg.cc/hvF3bv7Y/Hamburguesa-a-la-Inglesa.png",
+      "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa de Bacon",
+      "imagen": "https://i.postimg.cc/dVnpPJz7/Hamburguesa-Bacon.png",
+      "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa Clasica",
+      "imagen": "https://i.postimg.cc/pT56Fzy8/Hamburguesa-Clasica.png",
+      "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa de Medio Kilo",
+      "imagen": "https://i.postimg.cc/SRW1Z46x/Hamburguesa-Medio-Kilo.png",
+      "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa Triple",
+      "imagen": "https://i.postimg.cc/0NB4jc5P/Hamburguesa-Triple.png",
+      "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa Vegana",
+      "imagen": "https://i.postimg.cc/tgTf9LjB/Hamburguesa-Vegana.png",
+      "descripción": "test"
+    }
+  ]
 }
   
