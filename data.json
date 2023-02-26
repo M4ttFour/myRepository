@@ -126,6 +126,16 @@
       "titulo": "Hamburguesa Vegana",
       "imagen": "https://i.postimg.cc/tgTf9LjB/Hamburguesa-Vegana.png",
       "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa Gourmet",
+      "imagen": "https://i.postimg.cc/BvWsq517/Hamburguesa-Gourmet.png",
+      "descripción": "test"
+    },
+    {
+      "titulo": "Hamburguesa Alemana",
+      "imagen": "https://i.postimg.cc/GmTdwg9s/Hamburguesa-Alemana.png",
+      "descripción": "test"
     }
   ]
 }
