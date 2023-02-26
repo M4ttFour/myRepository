@@ -1,87 +1,4 @@
 {
-  "data":[
-    {
-      "id": 1,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "The McDonald's Bacon.",
-      "image": "",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 2,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 3,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 4,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 5,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-        {
-      "id": 6,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 7,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 8,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 9,
-      "name": "Bacon,Egg & Cheese Biscuit",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    },
-    {
-      "id": 10,
-      "name": "Last Name",
-      "images":"",
-      "desc": "Description.",
-      "price": 3.23,
-      "veg": false
-    }
-  ],
   "carousel":[
       {
         "id":1,
@@ -100,43 +17,50 @@
     {
       "titulo": "Hamburguesa Inglesa",
       "imagen": "https://i.postimg.cc/hvF3bv7Y/Hamburguesa-a-la-Inglesa.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa clásica con queso cheddar y salsa Worcestershire.",
+      "price": "6.00€"
     },
     {
       "titulo": "Hamburguesa de Bacon",
       "imagen": "https://i.postimg.cc/dVnpPJz7/Hamburguesa-Bacon.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa con tocino y queso cheddar derretido.",
+      "price": "5.00€"
     },
     {
       "titulo": "Hamburguesa Clasica",
       "imagen": "https://i.postimg.cc/pT56Fzy8/Hamburguesa-Clasica.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa simple con lechuga, tomate y cebolla.",
+      "price": "4.50€"
     },
     {
       "titulo": "Hamburguesa de Medio Kilo",
       "imagen": "https://i.postimg.cc/SRW1Z46x/Hamburguesa-Medio-Kilo.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa grande de 500 gramos.",
+      "price": "8.50€"
     },
     {
       "titulo": "Hamburguesa Triple",
       "imagen": "https://i.postimg.cc/0NB4jc5P/Hamburguesa-Triple.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa con tres carnes, queso, tocino y vegetales.",
+      "price": "9.50€"
     },
     {
       "titulo": "Hamburguesa Vegana",
       "imagen": "https://i.postimg.cc/tgTf9LjB/Hamburguesa-Vegana.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa vegetariana hecha con ingredientes de origen vegetal.",
+      "price": "4.00€"
     },
     {
       "titulo": "Hamburguesa Gourmet",
       "imagen": "https://i.postimg.cc/BvWsq517/Hamburguesa-Gourmet.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa con ingredientes especiales y sofisticados.",
+      "price": "10.00€"
     },
     {
       "titulo": "Hamburguesa Alemana",
       "imagen": "https://i.postimg.cc/GmTdwg9s/Hamburguesa-Alemana.png",
-      "descripción": "test"
+      "descripción": "Hamburguesa con queso emmental y salsa de mostaza alemana.",
+      "price": "5.50€"
     }
   ]
 }
-  
